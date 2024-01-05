@@ -3,6 +3,7 @@
 - 👀 I’m interested in Games, Anime, and Programming fun nerdy things
 - 🌱 B.sC.  in Software Engineering, looking for a job
 - 💞️ I’m looking to work backend or fullstack programming
+- 📬 Mail me at: Natty.Zepko@gmail.com
 
 ## My Skill Set  
 
@@ -27,17 +28,30 @@
 </div>
 
 <div align="center">  
-<a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
-<a href="https://www.unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="Unity" height="50" /></a>  
+<a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a> 
+<a href="https://www.unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="Unity" height="50" /></a> 
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/473592/dotnet.svg" alt=".Net" height="50" /></a>   
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="ASP.NET" height="50" /></a>   
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/473592/dotnet.svg" alt=".Net" height="50" /></a> 
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="ASP.NET" height="50" /></a> 
 </div>
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattyZepko&hide_border=true&layout=compact" align="center" />
 <br/>
+
+## Contact me  
+<div align="center">
+<a href="https://github.com/NattyZepko" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/natty-zepko/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/ZepkoNatty/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <!---
 NattyZepko/NattyZepko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
