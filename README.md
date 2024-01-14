@@ -2,7 +2,6 @@
 ### **<div align="center">Hi 👋, I’m NattyZepko</div>**
 - 👀 I’m interested in Games, Anime, and Programming fun nerdy things
 - 🌱 B.sC.  in Software Engineering, looking for a job
-- 💞️ I’m looking to work backend or fullstack programming
 - 📬 Mail me at: Natty.Zepko@gmail.com
 
 ## My Skill Set  
