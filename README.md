@@ -1,7 +1,8 @@
 
 ### **<div align="center">Hi 👋, I’m NattyZepko</div>**
 - 👀 I’m interested in Games, Anime, and Programming fun nerdy things
-- 🌱 B.sC.  in Software Engineering, looking for a job
+- 🌱 B.sC.  in Software Engineering
+- Work for INX since Jan 2024
 - 📬 Mail me at: Natty.Zepko@gmail.com
 
 ## My Skill Set  
